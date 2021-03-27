@@ -1,0 +1,65 @@
+
+body{
+    
+    background-image: url('https://i.pinimg.com/originals/bc/f1/c3/bcf1c3892bdbe79b3f41ab9d81fd0251.jpg');";
+}
+.top{
+    
+    
+  text-align : center;
+
+}
+h1{
+    color: black;
+  
+    text-align : center;
+    font-size : 50px; 
+}
+h2 {
+  color: black;
+
+  text-align : center;
+  font-style :arial;
+    font-size : 40px; 
+}
+i {
+    color:black;
+  
+    text-align : center;
+    font-style :arial;
+    font-size : 25px; 
+
+  }
+
+h3{
+    color : black;
+  
+    text-align : center;
+    font-style :arial;
+    font-size : 50px; 
+
+  }
+  li{
+    color:white;
+    font-style :arial;
+    font-size : 50px; 
+
+  }
+  td{
+    color:white;
+  
+    text-align : center;
+    font-style :arial;
+    font-size : 50px; 
+
+  }
+
+
+
+
+
+
+
+  
+
+
